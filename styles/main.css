@@ -1,0 +1,57 @@
+body{
+
+    background-color: #F9FAFF;
+    
+    }
+    
+    
+    
+    .side-design{
+    
+    background-color: #010000;
+    
+    margin: 0;
+    
+    height: 100vh;
+    
+    color: rgb(189, 2, 2);
+    
+    }
+
+    .col-sm-12.d-flex.justify-content-between.sidetag{
+        width: 90%;
+    }
+
+    div#sidetag{
+        width: 90%;
+    }
+    
+    
+    
+    .cbg-form{
+    
+    border-radius: 20px;
+    
+    background-color: #ffffff;
+    
+    padding: 40px;
+    
+    }
+    
+    
+    
+    .form-div{
+    
+    padding: 100px;
+    
+    }
+    
+    
+    
+    .logo{
+    
+    padding-top: 30px;
+    
+    }
+    
+    
